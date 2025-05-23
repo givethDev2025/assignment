@@ -105,7 +105,7 @@ export default function Chat({ messages: initialMessages = [], aiDraft = '' }) {
           msg.from === 'them' ? (
             <div key={msg.id} className="flex items-start gap-3">
               <Image
-                src={msg.image || selectedUser.image}
+                src={ selectedUser.image}
                 alt="avatar"
                 width={28}
                 height={28}
