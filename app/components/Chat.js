@@ -30,7 +30,7 @@ export default function Chat({ messages: initialMessages = [], aiDraft = '' }) {
 
   const selectedUser = {
     name: 'John Doe',
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
+    image: 'https://images.unsplash.com/photo-1603415526960-f8f76b36b58b?auto=format&fit=crop&w=36&h=36&q=80',
   }
 
   useEffect(() => {

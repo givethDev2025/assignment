@@ -11,7 +11,7 @@ export default function Inbox({ show, onClose }) {
       text: 'Can we reschedule our meeting?',
       time: '5:00am',
       selected: true,
-      image: 'https://randomuser.me/api/portraits/men/1.jpg',
+      image: 'https://images.unsplash.com/photo-1603415526960-f8f76b36b58b?auto=format&fit=crop&w=36&h=36&q=80',
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export default function Inbox({ show, onClose }) {
       text: 'I sent the files',
       time: '4:45am',
       selected: false,
-      image: 'https://randomuser.me/api/portraits/women/2.jpg',
+      image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=36&h=36&q=80',
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ export default function Inbox({ show, onClose }) {
       text: 'Okay thanks!',
       time: '4:00am',
       selected: false,
-      image: 'https://randomuser.me/api/portraits/men/3.jpg',
+      image: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=36&h=36&q=80',
     },
     {
       id: 4,
@@ -35,7 +35,7 @@ export default function Inbox({ show, onClose }) {
       text: 'Let me know.',
       time: '3:30am',
       selected: false,
-      image: 'https://randomuser.me/api/portraits/women/4.jpg',
+      image: 'https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=36&h=36&q=80',
     },
   ]
 
