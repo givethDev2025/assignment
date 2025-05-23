@@ -11,7 +11,7 @@ export default function Inbox({ show, onClose }) {
       text: 'Can we reschedule our meeting?',
       time: '5:00am',
       selected: true,
-      image: 'https://images.unsplash.com/photo-1603415526960-f8f76b36b58b?auto=format&fit=crop&w=36&h=36&q=80',
+      image: 'https://images.unsplash.com/photo-1615109398623-88346a601842?auto=format&fit=crop&w=100&h=100&q=80',
     },
     {
       id: 2,
